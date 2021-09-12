@@ -1,0 +1,9 @@
+VIST 1:
+What is it that we are trying to build?
+-A simple invintory system that allows the user to input what they have and add new items 
+-Connects to a program that tracks sales to update the inventory live
+
+What features do they need?
+-Easy to add and subtract items from inventory
+-A live update system that keeps track of waht they have and what is taken away by sales and other needs 
+-Some items arent for sale but still need to be tracked
