@@ -1,0 +1,16 @@
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.exe
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.deps.json
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.runtimeconfig.json
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.runtimeconfig.dev.json
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.dll
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\ref\invintorySy.dll
+C:\Users\raymc\git_practice\invintorySy\bin\Debug\net5.0\invintorySy.pdb
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.csproj.AssemblyReference.cache
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.AssemblyInfoInputs.cache
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.AssemblyInfo.cs
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.csproj.CoreCompileInputs.cache
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.dll
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\ref\invintorySy.dll
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.pdb
+C:\Users\raymc\git_practice\invintorySy\obj\Debug\net5.0\invintorySy.genruntimeconfig.cache
