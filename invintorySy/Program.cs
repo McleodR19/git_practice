@@ -5,10 +5,14 @@ namespace invintorySy
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("What is your Name?");
-            string input = Console.ReadLine();
-            Console.WriteLine("Hello " + input);
+        {int i = 1;
+        string result;
+            while( i >0){
+                Console.WriteLine("What would you like to do?");
+                result = Console.ReadLine();
+
+
+            }
         }
     }
 }
