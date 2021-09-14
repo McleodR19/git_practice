@@ -5,7 +5,8 @@ namespace invintorySy
     class Program
     {
         static void Main(string[] args)
-        {int i = 1;
+        {
+            int i = 1;
         string result;
          Console.WriteLine("What would you like to do?");
             while( i >0){
@@ -27,5 +28,6 @@ namespace invintorySy
                 Console.WriteLine("Thank you for using invintorySy");
             
         }
+        
     }
 }
